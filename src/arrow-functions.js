@@ -12,3 +12,4 @@ var bob = {
   },
 };
 console.log(bob.printFriends());
+console.log("=============================================");

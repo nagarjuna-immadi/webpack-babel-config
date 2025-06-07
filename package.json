@@ -13,6 +13,10 @@
   "devDependencies": {
     "@babel/core": "^7.17.9",
     "@babel/plugin-transform-arrow-functions": "^7.16.7",
+    "@babel/plugin-transform-async-to-generator": "^7.27.1",
+    "@babel/plugin-transform-exponentiation-operator": "^7.27.1",
+    "@babel/plugin-transform-object-rest-spread": "^7.27.3",
+    "@babel/plugin-transform-optional-catch-binding": "^7.27.1",
     "babel-loader": "^8.2.5",
     "html-webpack-plugin": "^5.5.0",
     "webpack": "^5.72.0",
