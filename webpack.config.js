@@ -11,10 +11,10 @@ module.exports = {
     hot: true
   },
   entry: {
-    "arrow-functions": "./src/arrow-functions.js",
+    "arrow-functions": "./src/index.js",
   },
   output: {
-    path: path.resolve(__dirname, "dist/code"),
+    path: path.resolve(__dirname, "dist"),
     filename: "output.bundle.js",
   },
   module: {
